@@ -1,0 +1,148 @@
+body {
+    background: url(drum.png) no-repeat center center/cover;
+    padding-top: 500px;
+}
+
+#boom {
+    position: relative;
+    top: -130px;
+    left: 540px;
+    font-size: 1.2rem;
+    font-family: fantasy;
+    width: 100px;
+    border: 1px solid rgb(231, 226, 226);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+#boom:hover {
+    background-color: tomato;
+}
+
+#clap {
+    position: relative;
+    top: -360px;
+    left: 125px;
+    font-size: 1.2rem;
+    font-family: fantasy;
+    width: 100px;
+    border: 1px solid rgb(231, 226, 226);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+#clap:hover {
+    background-color: tomato;
+}
+
+#hihat {
+    position: relative;
+    top: -500px;
+    left: 80px;
+    font-size: 1.2rem;
+    font-family: fantasy;
+    width: 100px;
+    border: 1px solid rgb(231, 226, 226);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+#hihat:hover {
+    background-color: tomato;
+}
+
+#kick {
+    position: relative;
+    top: -507px;
+    left: 345px;
+    font-size: 1.2rem;
+    font-family: fantasy;
+    width: 100px;
+    border: 1px solid rgb(231, 226, 226);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+#kick:hover {
+    background-color: tomato;
+}
+
+#openhat {
+    position: relative;
+    top: -506px;
+    left: -341px;
+    font-size: 1.2rem;
+    font-family: fantasy;
+    width: 100px;
+    border: 1px solid rgb(231, 226, 226);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+#openhat:hover {
+    background-color: tomato;
+}
+
+#ride {
+    position: relative;
+    top: -466px;
+    left: 500px;
+    font-size: 1.2rem;
+    font-family: fantasy;
+    width: 100px;
+    border: 1px solid rgb(231, 226, 226);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+#ride:hover {
+    background-color: tomato;
+}
+
+#snare {
+    position: relative;
+    top: -505px;
+    left: -189px;
+    font-size: 1.2rem;
+    font-family: fantasy;
+    width: 100px;
+    border: 1px solid rgb(231, 226, 226);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+#snare:hover {
+    background-color: tomato;
+}
+
+#tink {
+    position: relative;
+    top: -370px;
+    left: -193px;
+    font-size: 1.2rem;
+    font-family: fantasy;
+    width: 100px;
+    border: 1px solid rgb(231, 226, 226);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+#tink:hover {
+    background-color: tomato;
+}
+
+#tom{
+    position: relative;
+    top: -360px;
+    left: 61px;
+    font-size: 1.2rem;
+    font-family: fantasy;
+    width: 100px;
+    border: 1px solid rgb(231, 226, 226);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+#tom:hover {
+    background-color: tomato;
+}
